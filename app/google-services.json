@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565587662984",
+    "project_id": "quifoo-74f34",
+    "storage_bucket": "quifoo-74f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565587662984:android:94b1485a589845d1dce73d",
+        "android_client_info": {
+          "package_name": "com.example.quifoo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565587662984-19pm81c16rad48d2bsktvbv09mdirm46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJkghjqHqvEH-BzlRSg_o2rql-b7jtlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565587662984-19pm81c16rad48d2bsktvbv09mdirm46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
